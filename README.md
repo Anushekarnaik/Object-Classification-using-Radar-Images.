@@ -6,10 +6,10 @@ In a nutshell, the radar processor performs two consecutive Fast Fourier Transfo
 
 In modern systems, it is often required not only to detect a target but to automatically classify it. To this end, several approaches have been developed using multiple radar features such as the target micro-Doppler signature. However, in this post, we will explore the use of a Convolutional Neural Network (CNN) to classify targets using only the information provided by the range-Doppler map.
 
-![class Distrubution](images/class d.png)
+![class Distrubution](class_d.png)
 
-![CNN Model](images/model.png)
-![Output](images/output.png)
+![CNN Model](model.png)
+![Output](output.png)
 
 
 ## Dataset
